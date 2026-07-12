@@ -20,13 +20,17 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ### Operating Systems
 
-| # | Topic                                        | View       |
-| - | -------------------------------------------- | ---------- |
-| 1 | Operating System Introduction & Boot Process | [View](#1) |
-| 2 | Kernel & System Calls                        | [View](#2) |
-| 3 | Program, Process & Context Switching         | [View](#3) |
-| 4 | CPU Scheduling Algorithms                    | [View](#4) |
-| 5 | Threads, Multithreading & Multicore Systems  | [View](#5) |
+| # | Topic                                                     | View       |
+| - | --------------------------------------------------------- | ---------- |
+| 1 | Operating System Introduction & Boot Process              | [View](#1) |
+| 2 | Kernel & System Calls                                     | [View](#2) |
+| 3 | Program, Process & Context Switching                      | [View](#3) |
+| 4 | CPU Scheduling Algorithms                                 | [View](#4) |
+| 5 | Threads, Multithreading & Multicore Systems               | [View](#5) |
+| 6 | Race Conditions, IPC, Mutex, Semaphore & Monitor          | [View](#6) |
+| 7 | Classical Synchronization Problems                        | [View](#7) |
+| 8 | Deadlock & Banker's Algorithm                             | [View](#8) |
+| 9 | Memory Management, Address Binding, Paging & Segmentation | [View](#9) |
 
 ### Database Management Systems
 
@@ -61,6 +65,30 @@ This repository is designed to simplify Operating System and DBMS concepts using
 <a id="5"></a>
 
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/os/5.Thread%26Multithreading%26Multicore.png?raw=true)
+
+---
+
+<a id="6"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/6.RaceCondition%26IPC%26Mutex%26Semaphore%26Monitor.png?raw=true)
+
+---
+
+<a id="7"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/7.ClassicalProblems.png?raw=true)
+
+---
+
+<a id="8"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/8.Deadlock%26BankerAlgorithm.png?raw=true)
+
+---
+
+<a id="9"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/9.MemoryManagement%20%26%20Address%20%26%20Paging%20%26%20Segmentation.png?raw=true)
 
 ---
 
