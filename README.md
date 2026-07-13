@@ -31,6 +31,11 @@ This repository is designed to simplify Operating System and DBMS concepts using
 | 7 | Classical Synchronization Problems                        | [View](#7) |
 | 8 | Deadlock & Banker's Algorithm                             | [View](#8) |
 | 9 | Memory Management, Address Binding, Paging & Segmentation | [View](#9) |
+| 10 | Virtual Memory, Page Replacement Algorithms & Related Concepts | [View](#10) |
+| 11 | File Systems & Free Space Management | [View](#11) |
+| 12 | Disk Scheduling, Spooling & RAID | [View](#12) |
+| 13 | Virtualization & Operating System Security | [View](#13) |
+| 14 | Belady's Anomaly, Zombie Process & Orphan Process | [View](#14) |
 
 ### Database Management Systems
 
@@ -89,6 +94,36 @@ This repository is designed to simplify Operating System and DBMS concepts using
 <a id="9"></a>
 
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/os/9.MemoryManagement%20%26%20Address%20%26%20Paging%20%26%20Segmentation.png?raw=true)
+
+---
+
+<a id="10"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/10.Virtual%20Memory%20%26%20Replacement%20Algorithm%20%26%20More.png?raw=true)
+
+---
+
+<a id="11"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/11.FileSystem%26FreeSpaceManagement.png?raw=true)
+
+---
+
+<a id="12"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/12.DiskScheduling%26Spooling%26RAID.png?raw=true)
+
+---
+
+<a id="13"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/13.Virtaulization%26OSSecurity.png?raw=true)
+
+---
+
+<a id="14"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/os/14.Beloday's%20Anamoly%20%26%20Zombie%20vs%20Orphan%20Process.png?raw=true)
 
 ---
 
