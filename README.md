@@ -39,7 +39,12 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ### Database Management Systems
 
-*Diagrams will be added soon.*
+| # | Topic                                                | View            |
+| - | ---------------------------------------------------- | --------------- |
+| 1 | ER Model & DBMS Fundamentals                         | [View](#dbms-1) |
+| 2 | Cardinality, Participation Constraints & Weak Entity | [View](#dbms-2) |
+| 3 | Relational Model, Keys & Integrity Constraints       | [View](#dbms-3) |
+
 
 ---
 
@@ -126,6 +131,28 @@ This repository is designed to simplify Operating System and DBMS concepts using
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/os/14.Beloday's%20Anamoly%20%26%20Zombie%20vs%20Orphan%20Process.png?raw=true)
 
 ---
+
+
+---
+
+<a id="dbms-1"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/1.ER%20Model%20%26%20Fundamentals.png?raw=true)
+
+---
+
+<a id="dbms-2"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/2.Cardinality%2C%20Participation%20Constraints%20%26%20Weak%20Entity.png?raw=true)
+
+---
+
+<a id="dbms-3"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/3.Relational%20Model%20%26%20Keys%20%26%20Integrity%20Constraints.png?raw=true)
+
+---
+
 
 ## Maintained By
 
