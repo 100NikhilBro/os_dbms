@@ -39,11 +39,15 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ### Database Management Systems
 
-| # | Topic                                                | View            |
-| - | ---------------------------------------------------- | --------------- |
-| 1 | ER Model & DBMS Fundamentals                         | [View](#dbms-1) |
-| 2 | Cardinality, Participation Constraints & Weak Entity | [View](#dbms-2) |
-| 3 | Relational Model, Keys & Integrity Constraints       | [View](#dbms-3) |
+| # | Topic                                                  | View            |
+| - | ------------------------------------------------------ | --------------- |
+| 1 | ER Model & DBMS Fundamentals                           | [View](#dbms-1) |
+| 2 | Cardinality, Participation Constraints & Weak Entity   | [View](#dbms-2) |
+| 3 | Relational Model, Keys & Integrity Constraints         | [View](#dbms-3) |
+| 4 | Functional Dependency, Redundancy & Database Anomalies | [View](#dbms-4) |
+| 5 | Normalization & Denormalization                        | [View](#dbms-5) |
+| 6 | SQL & Joins                                            | [View](#dbms-6) |
+
 
 
 ---
@@ -152,6 +156,25 @@ This repository is designed to simplify Operating System and DBMS concepts using
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/3.Relational%20Model%20%26%20Keys%20%26%20Integrity%20Constraints.png?raw=true)
 
 ---
+
+<a id="dbms-4"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/4.Functional%20Dependency%2C%20Redundancy%20%26%20Database%20Anomalies.png?raw=true)
+
+---
+
+<a id="dbms-5"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/5.Normalization%26Denormalization.png?raw=true)
+
+---
+
+<a id="dbms-6"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/6.SQL%26Joins.png?raw=true)
+
+---
+
 
 
 ## Maintained By
