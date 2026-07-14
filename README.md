@@ -47,6 +47,10 @@ This repository is designed to simplify Operating System and DBMS concepts using
 | 4 | Functional Dependency, Redundancy & Database Anomalies | [View](#dbms-4) |
 | 5 | Normalization & Denormalization                        | [View](#dbms-5) |
 | 6 | SQL & Joins                                            | [View](#dbms-6) |
+| 7 | Transactions, Concurrency, Isolation & Locking | [View](#dbms-7) |
+| 8 | Serializability | [View](#dbms-8) |
+| 9 | Two-Phase Commit (2PC) & MVCC | [View](#dbms-9) |
+
 
 
 
@@ -174,6 +178,25 @@ This repository is designed to simplify Operating System and DBMS concepts using
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/6.SQL%26Joins.png?raw=true)
 
 ---
+
+<a id="dbms-7"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/7.Transaction-Concurrency-Isolation-Locking.png?raw=true)
+
+---
+
+<a id="dbms-8"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/8.Serializability.png?raw=true)
+
+---
+
+<a id="dbms-9"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/9.2PC%26MVCC.png?raw=true)
+
+---
+
 
 
 
