@@ -50,6 +50,11 @@ This repository is designed to simplify Operating System and DBMS concepts using
 | 7 | Transactions, Concurrency, Isolation & Locking | [View](#dbms-7) |
 | 8 | Serializability | [View](#dbms-8) |
 | 9 | Two-Phase Commit (2PC) & MVCC | [View](#dbms-9) |
+| 10 | Indexing | [View](#dbms-10) |
+| 11 | B-Tree, B+ Tree & Hashing | [View](#dbms-11) |
+| 12 | SQL vs NoSQL & CAP Theorem | [View](#dbms-12) |
+| 13 | Replication & Sharding | [View](#dbms-13) |
+| 14 | OLTP vs OLAP & Generalization vs Specialization | [View](#dbms-14) |
 
 
 
@@ -197,6 +202,35 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ---
 
+<a id="dbms-10"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/10.Indexing.png?raw=true)
+
+---
+
+<a id="dbms-11"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/11.B-Tree%26B%2Btree%26Hashing.png?raw=true)
+
+---
+
+<a id="dbms-12"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/12.SQLvsNoSQL%26CAP.png?raw=true)
+
+---
+
+<a id="dbms-13"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/13.Replication%26Sharding.png?raw=true)
+
+---
+
+<a id="dbms-14"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/14.OLTPvsOLAP%26GernralisationvsSpecialisation.png?raw=true)
+
+---
 
 
 
