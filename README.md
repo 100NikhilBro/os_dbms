@@ -16,9 +16,23 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ---
 
-## Diagram Index
+## Contents
 
-### Operating Systems
+- [Operating Systems](#operating-systems)
+  - [Diagram Index](#operating-systems)
+  - [Operating System Diagrams](#operating-system-diagrams)
+
+- [Database Management Systems](#database-management-systems)
+  - [Diagram Index](#database-management-systems)
+  - [Database Management System Diagrams](#database-management-system-diagrams)
+
+---
+
+<a id="operating-systems"></a>
+
+# Operating Systems
+
+## Diagram Index
 
 | # | Topic                                                     | View       |
 | - | --------------------------------------------------------- | ---------- |
@@ -37,7 +51,15 @@ This repository is designed to simplify Operating System and DBMS concepts using
 | 13 | Virtualization & Operating System Security | [View](#13) |
 | 14 | Belady's Anomaly, Zombie Process & Orphan Process | [View](#14) |
 
-### Database Management Systems
+
+---
+
+<a id="database-management-systems"></a>
+
+# Database Management Systems
+
+## Diagram Index
+
 
 | # | Topic                                                  | View            |
 | - | ------------------------------------------------------ | --------------- |
@@ -56,10 +78,15 @@ This repository is designed to simplify Operating System and DBMS concepts using
 | 13 | Replication & Sharding | [View](#dbms-13) |
 | 14 | OLTP vs OLAP & Generalization vs Specialization | [View](#dbms-14) |
 
+---
 
+<a id="operating-system-diagrams"></a>
 
+## Operating System Diagrams
 
 ---
+
+
 
 <a id="1"></a>
 
@@ -145,8 +172,12 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ---
 
+<a id="database-management-system-diagrams"></a>
+
+## Database Management System Diagrams
 
 ---
+
 
 <a id="dbms-1"></a>
 
