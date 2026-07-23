@@ -263,7 +263,16 @@ This repository is designed to simplify Operating System and DBMS concepts using
 
 ---
 
+## Related Repositories
 
+This repository is part of a visual Computer Science learning series.
+
+| Repository | Description |
+|------------|-------------|
+| [Backend Engineering Foundations](https://github.com/100NikhilBro/backend-engineering-foundations) | Visual guides covering Backend Engineering, System Design, Distributed Systems, LLD, Design Patterns, Security, Databases, and Backend Architecture. |
+| [Networks Foundation](https://github.com/100NikhilBro/networks-foundation) | Visual Computer Networks diagrams for learning, revision, and interview preparation. |
+
+---
 
 ## Maintained By
 
