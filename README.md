@@ -2,6 +2,10 @@
 
 A visual-first repository for learning **Operating Systems** and **Database Management Systems** through structured diagrams.
 
+<p align="center">
+  <img src="./assets/OS_DBMS.gif" alt="OS & DBMS Foundation Demo" width="100%">
+</p>
+
 This repository is designed to simplify Operating System and DBMS concepts using visual explanations. Each diagram focuses on a specific topic, making it easier to understand, revise, and prepare for interviews or academic courses.
 
 ---
