@@ -1,22 +1,23 @@
+
 # OS & DBMS Foundation
 
-A visual-first repository for learning **Operating Systems** and **Database Management Systems** through structured diagrams.
+A structured visual guide to **Operating Systems** and **Database Management Systems**, designed to simplify core concepts through diagrams, organized learning, and interview-focused content.
 
-<p align="center">
-  <img src="./assets/OS_DBMS.gif" alt="OS & DBMS Foundation Demo" width="100%">
-</p>
-
-This repository is designed to simplify Operating System and DBMS concepts using visual explanations. Each diagram focuses on a specific topic, making it easier to understand, revise, and prepare for interviews or academic courses.
+https://github.com/user-attachments/assets/3340294d-f0d6-4aed-9f5f-9ed1f1488f64
 
 ---
 
-## Repository Purpose
+This repository explains Operating Systems and Database Management Systems using structured visual diagrams. Each topic is organized independently, making it suitable for both learning and quick revision.
 
-* Learn Operating Systems and DBMS through visual diagrams.
-* Build strong system fundamentals.
-* Revise concepts quickly before interviews and exams.
-* Understand core concepts through structured visual representations.
-* Maintain a single reference for Operating System and DBMS topics.
+---
+
+## What You'll Learn
+
+* Operating System fundamentals through visual diagrams.
+* Database Management System concepts with structured explanations.
+* Core concepts commonly asked in SDE and Backend interviews.
+* Quick revision before interviews, exams, or projects.
+* A single reference for essential Operating System and DBMS topics.
 
 ---
 
