@@ -82,6 +82,7 @@ This repository explains Operating Systems and Database Management Systems using
 | 12 | SQL vs NoSQL & CAP Theorem | [View](#dbms-12) |
 | 13 | Replication & Sharding | [View](#dbms-13) |
 | 14 | OLTP vs OLAP & Generalization vs Specialization | [View](#dbms-14) |
+| 15 | Disk Storage, Indexing & B-Tree Overview | [View](#dbms-15) |
 
 ---
 
@@ -265,6 +266,12 @@ This repository explains Operating Systems and Database Management Systems using
 <a id="dbms-14"></a>
 
 ![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/14.OLTPvsOLAP%26GernralisationvsSpecialisation.png?raw=true)
+
+---
+
+<a id="dbms-15"></a>
+
+![](https://github.com/100NikhilBro/os_dbms/blob/main/dbms/15.Disk_Indexing_TreeOverview.png?raw=true)
 
 ---
 
